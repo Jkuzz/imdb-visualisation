@@ -1,3 +1,5 @@
+import rdflib
+
 
 def main():
     print("Hello datavis")
